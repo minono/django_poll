@@ -6,5 +6,6 @@
 # End of https://www.gitignore.io/api/minoenv
 
 
-# minoenv/ いらないよ
+# いらないよ
 minoenv/
+mysite/db.sqlite3
